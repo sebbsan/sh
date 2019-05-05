@@ -1,0 +1,9 @@
+alias env="env | sort"
+alias gs="git status"
+alias gal="git add ."
+alias av="ansible-vault"
+alias ap="ansible-playbook"
+alias tf="terraform"
+alias gcmb="git branch --merged | grep -Ev '(^\*|master)' | xargs git branch -d"
+alias ll='ls -FGlAahp'
+alias edit='sublime'
